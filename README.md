@@ -1,5 +1,6 @@
 <h1 aling="center"> CONVERSOR DE MONEDAS </h1>
 <p aling="center">#challengeconversordemonedas</p>
+<p>NOTA: ¡El código del conversor está en la rama MASTER!</p>
 
 <h2>Introducción</h2>
 <p>Este proyecto forma parte del primer challenge del curso JAVA ORIENTADO A OBJETOS de ALURA LATAM en colaboración con ORACLE.
@@ -15,7 +16,7 @@ El repositorio lo pueden encontrar en el sitio web: https://mvnrepository.com/ar
 <h2>Conclusión</h2>
 <p>Fue un proyeco bastante desafiante, pero la comunidad de Alura es muy unida y ofrecen mucho apoyo para la comprensión, identificación y 
 depuración de errores, sin duda aprendí y reforce bastantes conocimientos a lo largo de este Challenge.</p>
-<p>A continuación les mostraré un video del funcionamiento de la interz de usuario implementada desde la terminal</p>
+<p>A continuación les mostraré un video del funcionamiento de la interz de usuario implementada desde la terminal.</p>
 
 <h2>Video Demostrativo</h2>
 
